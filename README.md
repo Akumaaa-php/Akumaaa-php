@@ -1,12 +1,10 @@
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 <h1 align="center">Hi 👋, I'm Akuma</h1>
 <h3 align="center">A passionate frontend developer and a gamer from Philippines</h3>
-<img align="center" src="https://cdn.discordapp.com/attachments/1039930560535089215/1160267394904764648/badge_1.png?ex=65340a37&is=65219537&hm=0d9eeb202b044c36dcae65ca7401d2b13fbb387a1f590bd72391b1dcfa374c9c&" alt="akuma.php" height="44" width="294"/>
+
+
+<p align="center">
+  <img width="460" height="300" src="<p align="center"></p><img src="https://cdn.discordapp.com/attachments/1039930560535089215/1160267394904764648/badge_1.png?ex=65340a37&is=65219537&hm=0d9eeb202b044c36dcae65ca7401d2b13fbb387a1f590bd72391b1dcfa374c9c&" alt="akuma.php" height="44" width="294"/></p>">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akumaaa-php&label=Profile%20views&color=0e75b6&style=flat" alt="akumaaa-php" /> </p>
 
