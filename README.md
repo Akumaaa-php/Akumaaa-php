@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/akumaexpress" target="blank"><img src="https://img.shields.io/twitter/follow/akumaexpress?logo=twitter&style=for-the-badge" alt="akumaexpress" /></a> </p>
 
-- 🔭 I’m currently working on my [Portfolio](https://akumaaa-php.github.io/Portfolio/)
+- 🔭 I’m currently working on my [Portfolio](https://akumaaa-php.github.io/)
 
 - 🌱 I’m currently learning **python**
 
