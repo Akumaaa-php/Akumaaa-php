@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 👨‍💻 All of my projects are available at [https://akumaaa-php.github.io/Portfolio/](https://akumaaa-php.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://akumaaa-php.github.io/](https://akumaaa-php.github.io/)
 
 - 💬 Ask me about **hobbies and favorite games**
 
