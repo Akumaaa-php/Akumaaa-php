@@ -1,32 +1,93 @@
-<h1 align="center">Hi 👋, I'm Akuma</h1>
-<h3 align="center">A passionate frontend developer and a gamer from Philippines</h3>
+<h1 align="left">👋 Hey, What's up?</h1>
 
+###
 
-<p><a href="https://akumaaa-php.github.io/" target="blank"><p align="center"><img width="294" height="44" src="https://cdn.discordapp.com/attachments/1039930560535089215/1160267394904764648/badge_1.png?ex=65340a37&is=65219537&hm=0d9eeb202b044c36dcae65ca7401d2b13fbb387a1f590bd72391b1dcfa374c9c&" alt="akuma.php"></a></p>
+<br clear="both">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akumaaa-php&label=Profile%20views&color=0e75b6&style=flat" alt="akumaaa-php" /> </p>
+<p align="left">My name is Akuma, also known as  Blanché and I'm a Software/Website Developer and a UI/UX Designer, from Philippines.</p>
 
-<p align="left"> <a href="https://twitter.com/akumaexpress" target="blank"><img src="https://img.shields.io/twitter/follow/akumaexpress?logo=twitter&style=for-the-badge" alt="akumaexpress" /></a> </p>
+###
 
-- 🔭 I’m currently working on my [Portfolio](https://akumaaa-php.github.io/)
+<h2 align="left">❓ About me</h2>
 
-- 🌱 I’m currently learning **python**
+###
 
-- 👨‍💻 All of my projects are available at [https://akumaaa-php.github.io/](https://akumaaa-php.github.io/)
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Next.js and Tailwind CSS<br>🎯 Goal(s): Create a magnificient portfolio website<br>🎲 Fun fact: I love playing online games such as VALORANT, Farlight 84, AQWorlds and other online games.</p>
 
-- 💬 Ask me about **hobbies and favorite games**
+###
 
-- 📫 How to reach me **itsakumaaa0001@gmail.com**
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akumaexpress" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akumaexpress" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://twitter.com/AkumaPHP" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/784717543549173811" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+###
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/akuma.php"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akuma.php" /></a><a href="https://ko-fi.com/akuma_php"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="akuma_php" /></a></p><br><br>
+<br clear="both">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akumaaa-php&show_icons=true&locale=en" alt="akumaaa-php" /></p>
+<div align="center">
+  <a href="https://open.spotify.com/user/39nifbx4kjmq68uqtnaog1vli">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=39nifbx4kjmq68uqtnaog1vli&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">✨ I code with:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+</div>
+
+###
+
+<h2 align="left">📊 My stats:</h2>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/akumaaa-php/akumaaa-php/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akumaaa-php&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=@Akuma.php" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akumaaa-php&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+</div>
+
+###
