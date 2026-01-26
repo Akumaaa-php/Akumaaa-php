@@ -28,23 +28,44 @@
 
 ---
 
-## About
+<!-- ================= PROFILE CARD ================= -->
+### Profile
 
-<p style="max-width:720px;">
-Software & Website Developer focused on crafting clean interfaces, intuitive user experiences,  
-and performant web applications.
-
-<br/><br/>
-
-• Creating bugs since 2018  
-• Learning Next.js & Tailwind CSS  
-• Building a portfolio worth shipping  
-• Gamer — VALORANT, Farlight 84, AQWorlds
+<p style="max-width:760px;">
+Software & Website Developer with a strong focus on UI/UX design.  
+I care deeply about spacing, motion, hierarchy, and performance —  
+shipping experiences that feel intentional and refined.
 </p>
 
----
+<hr/>
 
-## Currently Playing
+<!-- ================= QUICK FACTS ================= -->
+### Details
+
+<p>
+<b>Experience</b><br/>
+<span style="opacity:0.85;">Creating bugs since 2018</span>
+</p>
+
+<p>
+<b>Currently Learning</b><br/>
+<span style="opacity:0.85;">Next.js, Tailwind CSS</span>
+</p>
+
+<p>
+<b>Goal</b><br/>
+<span style="opacity:0.85;">Build a portfolio that speaks before I do</span>
+</p>
+
+<p>
+<b>Off Hours</b><br/>
+<span style="opacity:0.85;">VALORANT, Farlight 84, AQWorlds</span>
+</p>
+
+<hr/>
+
+<!-- ================= NOW PLAYING (WIDGET STYLE) ================= -->
+### Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/39nifbx4kjmq68uqtnaog1vli">
@@ -52,39 +73,48 @@ and performant web applications.
   </a>
 </div>
 
----
+<hr/>
 
-## Stack
+<!-- ================= TECH STACK (SYSTEM ICON GRID) ================= -->
+### Stack
 
 <p style="opacity:0.9;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
 </p>
 
----
+<hr/>
 
-## Activity
+<!-- ================= ACTIVITY ================= -->
+### Activity
 
 <img src="https://raw.githubusercontent.com/akumaaa-php/akumaaa-php/output/snake.svg"/>
 
----
+<hr/>
 
-## Statistics
+<!-- ================= STATS (HOME SCREEN WIDGET FEEL) ================= -->
+### Statistics
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=akumaaa-php&include_all_commits=true&count_private=true&theme=dracula&custom_title=@Akuma.php"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=akumaaa-php&layout=compact&langs_count=10&theme=dracula&hide_border=true"/>
 </div>
+
+<hr/>
+
+<p align="center" style="opacity:0.7;">
+Designed with restraint. Built with intent.
+</p>
