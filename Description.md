@@ -1,99 +1,87 @@
 <!-- ================= iOS 26 GLASS HEADER ================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Akuma&fontAlign=50&fontAlignY=38&fontSize=64&color=0:0f2027,50:203a43,100:2c5364&desc=Software%20Developer%20•%20UI%2FUX%20Designer&descAlign=50&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Akuma&fontAlign=50&fontAlignY=36&fontSize=62&color=0:0b0f14,50:1c1f26,100:2a2f3a&desc=Software%20Developer%20•%20UI%2FUX%20Designer&descAlign=50&descAlignY=58"/>
 
 <br/>
 
 <p align="center">
-  <strong>aka Blanché</strong><br/>
-  <sub>
-    Building elegant interfaces & performant web experiences<br/>
-    🇯🇵 Japan | 🇵🇭 Philippines
+  <strong style="font-size:18px;">Akuma</strong><br/>
+  <sub style="font-size:14px;">
+    aka Blanché<br/>
+    🇯🇵 Japan <span style="opacity:.6;">|</span> 🇵🇭 Philippines
   </sub>
 </p>
 
 <br/>
 
-<!-- iOS-style buttons -->
+<!-- iOS-style social buttons -->
 <p align="center">
   <a href="https://twitter.com/AkumaPHP" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/784717543549173811" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/iOS%2026%20Inspired-Glass-black?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-<p align="left">
-✨ Creating bugs since 2018<br>
-📚 Currently learning <strong>Next.js</strong> & <strong>Tailwind CSS</strong><br>
-🎯 Goal: Build a <strong>magnificent portfolio website</strong><br>
-🎮 Fun fact: I play VALORANT, Farlight 84, AQWorlds & other online games
+<p>
+Software & Website Developer with a strong focus on UI/UX design.  
+I care about details, motion, spacing, and performance.
+
+<br/><br/>
+
+• Creating bugs since 2018  
+• Learning Next.js & Tailwind CSS  
+• Building a portfolio worth flexing  
+• Gamer — VALORANT, Farlight 84, AQWorlds
 </p>
 
 ---
 
-## 🎧 Currently Vibing To
+## 🎧 Now Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/39nifbx4kjmq68uqtnaog1vli">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=39nifbx4kjmq68uqtnaog1vli&count=1&unique=false" alt="Spotify recently played"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=39nifbx4kjmq68uqtnaog1vli&count=1&unique=false"/>
   </a>
 </div>
 
 ---
 
-## ⚒️ I Code With
+## ⚒️ Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="36"/>
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Activity
 
-<img src="https://raw.githubusercontent.com/akumaaa-php/akumaaa-php/output/snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/akumaaa-php/akumaaa-php/output/snake.svg"/>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=akumaaa-php&include_all_commits=true&count_private=true&theme=dracula&custom_title=@Akuma.php"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=akumaaa-php&layout=compact&langs_count=10&theme=dracula&hide_border=true&custom_title=Languages"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=akumaaa-php&theme=dracula&custom_title=@Akuma.php"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=akumaaa-php&layout=compact&theme=dracula&hide_border=true"/>
 </div>
