@@ -85,4 +85,6 @@ I enjoy building clean interfaces, smooth user experiences, and scalable web app
 ## Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=akumaaa-php&include_all_commits=true&count_private=true&theme=dracula&custom_title=@Akuma.php"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=akumaaa-php&layout=compact&langs_count=10&theme=dracula&hide_border=true"/>
+</div>
