@@ -28,27 +28,39 @@
 
 ---
 
-### About Me
+### Profile
 
-Hello! I’m Akuma, also known as Blanché, a software and web developer with a passion for UI/UX design. I enjoy creating digital experiences that are not only functional but also delightful to interact with.  
+<p style="max-width:760px;">
+Software & Website Developer with a strong focus on UI/UX design.  
+I care deeply about spacing, motion, hierarchy, and performance —  
+shipping experiences that feel intentional and refined.
+</p>
 
-Over the years, I’ve honed my skills in building clean, efficient, and user-friendly applications, always keeping the end user in mind. Beyond development, I’m fascinated by design details, typography, and motion, striving to make every interface feel intuitive and polished.
+<hr/>
 
----
+### Details
 
-### What I’m Working On
+<p>
+🖤 <b>Experience</b><br/>
+<span style="opacity:0.85;">Creating bugs since 2018</span>
+</p>
 
-Currently, I am deepening my knowledge of **Next.js** and **Tailwind CSS**, exploring modern frameworks and techniques to deliver responsive, high-performance web applications.  
+<p>
+💻 <b>Currently Learning</b><br/>
+<span style="opacity:0.85;">Next.js, Tailwind CSS</span>
+</p>
 
-My ongoing goal is to build a portfolio that demonstrates both my technical skills and my eye for design.
+<p>
+🎯 <b>Goal</b><br/>
+<span style="opacity:0.85;">Build a portfolio that speaks before I do</span>
+</p>
 
----
+<p>
+🎲 <b>Off Hours</b><br/>
+<span style="opacity:0.85;">VALORANT, Farlight 84, AQWorlds</span>
+</p>
 
-### Fun Side
-
-When I’m not coding or designing, I enjoy playing online games such as **VALORANT**, **Farlight 84**, and **AQWorlds**. Gaming for me is both a hobby and an inspiration, often giving ideas for better user interactions and game-inspired UI design.
-
----
+<hr/>
 
 ### Now Playing
 
@@ -58,45 +70,45 @@ When I’m not coding or designing, I enjoy playing online games such as **VALOR
   </a>
 </div>
 
----
+<hr/>
 
-### Tech Stack
+### Stack
 
 <p style="opacity:0.9;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30"/>
+  <img width="14"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
 </p>
 
----
+<hr/>
 
 ### Activity
 
 <img src="https://raw.githubusercontent.com/akumaaa-php/akumaaa-php/output/snake.svg"/>
 
----
+<hr/>
 
-### GitHub Stats
+### Statistics
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=akumaaa-php&include_all_commits=true&count_private=true&theme=dracula&custom_title=@Akuma.php"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=akumaaa-php&layout=compact&langs_count=10&theme=dracula&hide_border=true"/>
 </div>
 
----
+<hr/>
 
 <p align="center" style="opacity:0.7;">
-Crafted with care, designed with intent, and shared with curiosity.
+Designed with restraint. Built with intent.
 </p>
