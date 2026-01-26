@@ -7,9 +7,9 @@
 
 <p align="center">
   <strong style="font-size:18px;">Akuma</strong><br/>
-  <sub style="font-size:14px;">
+  <sub style="font-size:14px; opacity:0.85;">
     aka Blanché<br/>
-    🇯🇵 Japan <span style="opacity:.6;">|</span> 🇵🇭 Philippines
+    🇯🇵 Japan <span style="opacity:.5;">|</span> 🇵🇭 Philippines
   </sub>
 </p>
 
@@ -30,21 +30,21 @@
 
 ## About
 
-<p>
-Software & Website Developer with a strong focus on UI/UX design.  
-I enjoy building clean interfaces, smooth user experiences, and scalable web apps.
-</p>
+<p style="max-width:720px;">
+Software & Website Developer focused on crafting clean interfaces, intuitive user experiences,  
+and performant web applications.
 
-<p>
-• Creating bugs since 2018<br/>
-• Currently learning Next.js & Tailwind CSS<br/>
-• Goal: Build a portfolio worth shipping<br/>
+<br/><br/>
+
+• Creating bugs since 2018  
+• Learning Next.js & Tailwind CSS  
+• Building a portfolio worth shipping  
 • Gamer — VALORANT, Farlight 84, AQWorlds
 </p>
 
 ---
 
-## Now Playing
+## Currently Playing
 
 <div align="center">
   <a href="https://open.spotify.com/user/39nifbx4kjmq68uqtnaog1vli">
@@ -54,24 +54,24 @@ I enjoy building clean interfaces, smooth user experiences, and scalable web app
 
 ---
 
-## Tech Stack
+## Stack
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="34"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="34"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="34"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34"/>
+<p style="opacity:0.9;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/>
 </p>
 
 ---
@@ -82,7 +82,7 @@ I enjoy building clean interfaces, smooth user experiences, and scalable web app
 
 ---
 
-## Stats
+## Statistics
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=akumaaa-php&include_all_commits=true&count_private=true&theme=dracula&custom_title=@Akuma.php"/>
