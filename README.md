@@ -110,5 +110,5 @@ shipping experiences that feel intentional and refined.
 <hr/>
 
 <p align="center" style="opacity:0.7;">
-Designed with restraint. Built with intent.
+Designed with restraint. Built with intent. ❤️
 </p>
